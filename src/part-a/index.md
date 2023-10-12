@@ -14,6 +14,6 @@ This part consists of:
 > - Step [12](3.md#12)
 > before:
 >
-> <p class="warn"> [TBD]
+> <p class="warn"> the end of the lab session at 2 pm on Oct 30th (Monday)
 >
 > in **PDF format only**, and name the file `Lab7A_YourName.pdf`

@@ -18,6 +18,6 @@ This part consists of:
 > 
 > before:
 >
-> <p class="warn"> [TBD]
+> <p class="warn"> 9 pm on Nov 1st (Wednesday)
 >
 > in **PDF format only**, and name the file `Lab7B_YourName.pdf`
