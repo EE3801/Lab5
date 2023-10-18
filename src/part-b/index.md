@@ -15,6 +15,11 @@ This part consists of:
 > - Step [26](5.md#26)
 > - Step [30](5.md#30)
 > - Step [35](7.md#35)
+>
+> Repeat these steps from Lab 5:
+> - Step [36](https://ee3801.github.io/Lab5/part-a/5.html#36)
+> - Step [37](https://ee3801.github.io/Lab5/part-a/5.html#37)
+> - Step [75](https://ee3801.github.io/Lab5/part-b/11.html#75)
 > 
 > before:
 >
