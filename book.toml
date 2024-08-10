@@ -3,7 +3,7 @@ authors = ["Bui Quang Huy"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Lab 7"
+title = "Lab 5"
 
 [output.html]
 default-theme = "rust"

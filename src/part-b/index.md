@@ -16,14 +16,14 @@ This part consists of:
 > - Step [30](5.md#30)
 > - Step [35](7.md#35)
 >
-> Repeat these steps from Lab 5:
-> - Step [34](https://ee3801.github.io/Lab5/part-a/5.html#34) (showing that you only have 1 instance and 1 volume running)
-> - Step [36](https://ee3801.github.io/Lab5/part-a/5.html#36)
-> - Step [37](https://ee3801.github.io/Lab5/part-a/5.html#37)
-> - Step [75](https://ee3801.github.io/Lab5/part-b/11.html#75)
+> Repeat these steps from Lab 3:
+> - Step [34](https://ee3801.github.io/Lab3/part-a/5.html#34) (showing that you only have 1 instance and 1 volume running)
+> - Step [36](https://ee3801.github.io/Lab3/part-a/5.html#36)
+> - Step [37](https://ee3801.github.io/Lab3/part-a/5.html#37)
+> - Step [75](https://ee3801.github.io/Lab3/part-b/11.html#75)
 > 
 > before:
 >
 > <p class="warn"> 9 pm on Nov 1st (Wednesday)
 >
-> in **PDF format only**, and name the file `Lab7B_YourName.pdf`
+> in **PDF format only**, and name the file `Lab5B_YourName.pdf`
