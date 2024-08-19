@@ -20,6 +20,6 @@ This part consists of:
 > 
 > before:
 >
-> <p class="warn"> the end of the lab session at 2 pm on Oct 30th (Monday)
+> <p class="warn"> the end of the lab session at 2 pm on September 9th (Monday)
 >
 > in **PDF format only**, and name the file `Lab5A_YourName.pdf`
