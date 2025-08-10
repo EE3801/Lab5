@@ -24,6 +24,6 @@ This part consists of:
 > 
 > before:
 >
-> <p class="warn"> 9 pm on September 11th (Wednesday)
+> <p class="warn"> 9 pm on September 10th (Wednesday)
 >
 > in **PDF format only**, and name the file `Lab5B_YourName.pdf`
